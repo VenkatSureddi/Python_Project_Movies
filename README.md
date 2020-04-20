@@ -3,7 +3,7 @@ Using popular data wrangling, visualization and machine learning techniques to c
 
 # Collaborators
 
-Himaja Gaddam
+Himaja Gaddam </br>
 Venkat Sureddi
 
 # Data Loading
