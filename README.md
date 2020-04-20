@@ -12,18 +12,19 @@ We have taken data from two sources i.e IMDB website and Kaggle Wikipedia Movies
 
 # Packages Used For Our Analysis
 
-bs4
-pandas
-numpy
-requests
-randint
-warnings
-nltk
-matplotlib
-seaborn
-plotly
-sklearn
-sys
-os
-wordcloud
+•	bs4
+•	pandas
+•	numpy
+•	requests
+•	randint
+•	warnings
+•	nltk
+•	matplotlib
+•	seaborn
+•	plotly
+•	sklearn
+•	sys
+•	os
+•	wordcloud
+
 
